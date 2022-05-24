@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Edison 👋
 
 
 - 🔭 I’m currently working on a portfolio that you can see at ReactProjects repository
