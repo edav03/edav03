@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a portfolio that you can see at ReactProjects repository
-- 🌱 I’m currently learning NextJs, ReactJs, and Typscript
+- 🌱 I’m currently learning NextJs, ReactJs, and Typescript
 - 📫 How to reach me: edavalc03@hotmail.com
 <!--
 **edav03/edav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
