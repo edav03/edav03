@@ -1,7 +1,7 @@
 ### Hi there, I'm Edison 👋
 
 
-- 🔭 I’m currently working on a portfolio that you can see at ReactProjects repository
+- 🔭 CHECK MY PORTFOLIO AT (https://react-projects-mu-olive.vercel.app/)
 - 🌱 I’m currently learning NextJs, ReactJs, and Typescript
 - 📫 How to reach me: edavalc03@hotmail.com
 <!--
