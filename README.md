@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain/Ecuador</h3>
 <img
   alt="Ecuador"
-  src="https://www.google.com/search?q=Ecuador%20flag&tbm=isch"/>
+  src="http://purecatamphetamine.github.io/country-flag-icons/3x2/EC.svg"/>
 
 - 🔭 I’m currently working on [on my portfolio](https://react-projects-mu-olive.vercel.app/)
 
