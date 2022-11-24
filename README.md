@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Edison 👋</h1>
 <h3 align="center">A passionate developer from Spain/Ecuador</h3>
-<img
-  alt="Ecuador"
-  src="http://purecatamphetamine.github.io/country-flag-icons/3x2/EC.svg"/>
+<img alt="Ecuador" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/EC.svg"/>
+<img alt="Spain" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg"/>
 
 - 🔭 I’m currently working on [on my portfolio](https://react-projects-mu-olive.vercel.app/)
 
