@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **edavalc03@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/edav03/Curriculum](https://github.com/edav03/Curriculum)
-
 - ⚡ Fun fact **I enjoy programming**
 
 <h3 align="left">Connect with me:</h3>
