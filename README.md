@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [on my portfolio](https://react-projects-mu-olive.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS, ReactJS and Typescript**
+- 🌱 I’m currently learning **NestJS, ReactJS and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://react-projects-mu-olive.vercel.app/](https://react-projects-mu-olive.vercel.app/)
 
-- 💬 Ask me about **JavaScript, Java or PHP**
+- 💬 Ask me about **JavaScript, MongoDB or MYSQL**
 
 - 📫 How to reach me **edavalc03@gmail.com**
 
