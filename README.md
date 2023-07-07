@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NestJS, ReactJS and Typescript**
 
-<-- 👨‍💻 All of my projects are available at [https://react-projects-mu-olive.vercel.app/](https://react-projects-mu-olive.vercel.app/)-->
+<-- 👨‍💻 All of my projects are available at [https://react-projects-mu-olive.vercel.app/](https://react-projects-mu-olive.vercel.app/) -->
 
 - 💬 Ask me about **TypeScript, Node or Flutter**
 
