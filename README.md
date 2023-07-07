@@ -6,13 +6,13 @@
   font-size: 24px;
 } -->
 
-- 🔭 I’m currently working on [on my portfolio](https://react-projects-mu-olive.vercel.app/)
+<!-- 🔭 I’m currently working on [on my portfolio](https://react-projects-mu-olive.vercel.app/)-->
 
 - 🌱 I’m currently learning **NestJS, ReactJS and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://react-projects-mu-olive.vercel.app/](https://react-projects-mu-olive.vercel.app/)
+<-- 👨‍💻 All of my projects are available at [https://react-projects-mu-olive.vercel.app/](https://react-projects-mu-olive.vercel.app/)-->
 
-- 💬 Ask me about **JavaScript, MongoDB or MYSQL**
+- 💬 Ask me about **TypeScript, Node or Flutter**
 
 - 📫 How to reach me **edavalc03@gmail.com**
 
